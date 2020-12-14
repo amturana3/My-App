@@ -3,3 +3,4 @@ log.txt
 /client/node_modules
 /client/public
 /client/src/img
+/client/src/components/layout/Spinner.gif
